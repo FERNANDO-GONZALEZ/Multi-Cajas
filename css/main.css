@@ -34,7 +34,7 @@ width: 100%;
 }
 
 .interior1 {
-width: 245px;
+width: 260px;
 height: 1120px;
 background-color: rgb(132, 0, 255);
 color :white; 
@@ -49,7 +49,7 @@ border-radius: 20px;
         box-shadow: 5px 5px 10px 10px  rgb(127, 209, 124, 0.7), inset 0px 0px 0px 10px rgba(127, 209, 124,0.64); */
 }
 .interior2 {
-    width: 245px;
+    width: 260px;
     height: 1120px;
     background-color: navy;
     color :white; 
@@ -65,7 +65,7 @@ border-radius: 20px;
     }
 
     .interior3 {
-        width: 245px;
+        width: 260px;
         height: 1120px;
         background-color: rgb(61,1,61);
         color :white; 
