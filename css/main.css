@@ -28,7 +28,7 @@ display:inline-flex;
 margin-top: 5px;
 text-align: center;
 justify-content: center;
-background-color: rgb(110, 45, 45);
+background-color: rgb(180, 139, 139);
 border-radius: 20px;
 width: 100%;
 }
@@ -183,7 +183,8 @@ footer h6  {
     margin: 15px;
 }
 footer img{
-    width: 115px;
+    width: 80px;
+    text-align: center;
 }
 
 .foot2 {
@@ -200,5 +201,7 @@ footer img{
     height: 115px;
     margin:15px;
     background-color:burlywood;
+    color: navy;
     border-radius: 20px;
+    font-weight: bold;
 }
